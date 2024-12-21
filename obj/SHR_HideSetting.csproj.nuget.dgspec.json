@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\SHR_HideSetting\\SHR_HideSetting.csproj": {}
+  },
+  "projects": {
+    "I:\\SHR_HideSetting\\SHR_HideSetting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\SHR_HideSetting\\SHR_HideSetting.csproj",
+        "projectName": "SHR_HideSetting",
+        "projectPath": "I:\\SHR_HideSetting\\SHR_HideSetting.csproj",
+        "packagesPath": "C:\\Users\\I\\.nuget\\packages\\",
+        "outputPath": "I:\\SHR_HideSetting\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\I\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MaterialSkin.2": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
