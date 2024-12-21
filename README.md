@@ -11,6 +11,8 @@ Fog disable only preset: disable only fog effects
 
 Checkboxes near to sliders and switches allow you to choose which settings will be saved to the settings file and which will not.
 
+To delete all saved setting, you can press "Delete mod" button
+
 ![image](https://github.com/user-attachments/assets/9d1bc978-94fc-48ca-a820-367386d5e9bb)
 
 
